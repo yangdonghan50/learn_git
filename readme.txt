@@ -5,3 +5,4 @@ GIt tracks changes of files.
 Creating a new branch is quick
 Creating a new branch is quick and simple.
 An emergency happen
+Here is a test for merging master to dev.
